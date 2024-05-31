@@ -14,11 +14,10 @@
 <h2> Hi, I'm Mahmoud Mabrouk ! I am a Software Engineer  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 from Egypt .
-<h2>seedling: I’m currently learning:</h2>
+<h2> I’m currently learning:</h2>
   <p>software Architecture, Algorithms, Solid, Refactoring</p>
-  <h2>thinking_face: I’m looking to help others with:</h2>
-  <p>Architecture Solutions ,Clean Code</p>
- <h2> mailbox: How to reach me: </h2>
+
+ <h2> How to reach me: </h2>
  <p><a href="https://www.linkedin.com/in/mahmoud-mabrouk-0ab8aa192">LinkedIn</a></p>
   <p><a href="m7moudmabrouk@gmail.com">E-mail :- m7moudmabrouk@gmail.com</a></p>
 <h1>Languages and Tools : </h1>
