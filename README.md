@@ -14,16 +14,6 @@
 <h2> Hi, I'm Mahmoud Mabrouk ! I am a Software Engineer  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 from Egypt .
-<h2> telescope: I’m currently working on:</h2>
-<p>
- Implementing New Packages For PHP - Laravel Comunity 
-</p>
-<p><a href="https://github.com/tomatophp/tomato-api">Laravel Api Generetor</a></p>
-
-<p><a href="https://docs.tomatophp.com">Tomato Framework build in Laravel/Splade</a></p>
-
- <p><a href="https://github.com/queents/vilt">Implementing Dashboard Generator Using</a></p>
-
 <h2>seedling: I’m currently learning:</h2>
   <p>software Architecture, Algorithms, Solid, Refactoring</p>
   <h2>thinking_face: I’m looking to help others with:</h2>
